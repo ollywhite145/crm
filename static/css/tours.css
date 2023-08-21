@@ -1,0 +1,17 @@
+/* Custom styles */
+#slideshow {
+  margin-top: 50px;
+}
+
+.carousel-item img {
+  max-height: 500px;
+  object-fit: cover;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+footer {
+  margin-top: 50px;
+}
